@@ -1,8 +1,3 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Vitorugz/Vitorugz/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">Sou um Desenvolvedor backend Junior, que gosta muito de desafios que me ajudem a aumentar meus conhecimentos, tenho algumas experiências com automações web e RPAs</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
