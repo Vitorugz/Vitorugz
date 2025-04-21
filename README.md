@@ -2,7 +2,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vitorugz&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-<img width=35% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Vitorugz&theme=dark&layout=compact&hide_border=true" />
+<img width=40% src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Vitorugz&theme=dark&layout=compact&hide_border=true" />
  </div>
  
  &nbsp;
